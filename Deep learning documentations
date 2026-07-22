@@ -1,0 +1,15 @@
+
+To learn more, I highly recommend the book by Michael Nielsen
+http://neuralnetworksanddeeplearning.com/
+The book walks through the code behind the example in these videos, which you can find here: 
+https://github.com/mnielsen/neural-networks-and-deep-learning
+
+MNIST database:
+http://yann.lecun.com/exdb/mnist/
+
+Also check out Chris Olah's blog: 
+http://colah.github.io/
+His post on Neural networks and topology is particular beautiful, but honestly all of the stuff there is great.
+
+And if you like that, you'll love the publications at distill:
+https://distill.pub/
